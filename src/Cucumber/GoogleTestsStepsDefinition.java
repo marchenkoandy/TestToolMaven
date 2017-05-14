@@ -30,6 +30,7 @@ public class GoogleTestsStepsDefinition {
 	public void i_open(String Url) throws Throwable {	   
 		TestPage = new GooglePage(_driver,Url);
 	}	
+	
 	@And("^I enter \"([^\"]*)\" into search field and click search button$")
 	public void searchForText(String toSearch) {
 		TestPage.EnterSearchPattern(toSearch);
