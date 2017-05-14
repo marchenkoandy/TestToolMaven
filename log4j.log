@@ -1,0 +1,177 @@
+2017-05-14 12:08:51 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:08:51 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:08:51 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:08:54 INFO : The "Automation" was set to search field.
+2017-05-14 12:08:56 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 12:08:59 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:09:00 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:09:00 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:09:03 INFO : The "Automation" was set to search field.
+2017-05-14 12:09:04 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 12:18:49 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:18:49 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:18:49 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:18:52 INFO : The "Automation" was set to search field.
+2017-05-14 12:18:55 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 12:18:55 INFO : The "Automation" was set to search field.
+2017-05-14 12:18:56 INFO : Domain was found: (page 1 of 5): "automation-remarks.com/"
+2017-05-14 12:52:16 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 12:52:16 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 12:52:16 INFO : Downloading https://github.com/mozilla/geckodriver/releases/download/v0.16.1/geckodriver-v0.16.1-win64.zip to C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver-v0.16.1-win64.zip
+2017-05-14 12:52:17 WARN : Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Thu, 14 May 2037 09:52:18 -0000; secure; HttpOnly". Invalid 'expires' attribute: Thu, 14 May 2037 09:52:18 -0000
+2017-05-14 12:52:20 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 12:52:24 INFO : The "Automation" was set to search field.
+2017-05-14 12:52:25 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 12:52:26 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:52:26 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:52:26 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:52:30 INFO : The "Automation" was set to search field.
+2017-05-14 12:52:31 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 12:54:17 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 12:54:17 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 12:54:17 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 12:54:21 INFO : The "Automation" was set to search field.
+2017-05-14 12:54:22 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 12:54:22 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:54:23 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:54:23 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:54:26 INFO : The "Automation" was set to search field.
+2017-05-14 12:54:27 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 12:55:39 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 12:55:39 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 12:55:39 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 12:55:43 INFO : The "Automation" was set to search field.
+2017-05-14 12:55:44 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 12:55:44 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:55:45 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:55:45 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:55:48 INFO : The "Automation" was set to search field.
+2017-05-14 12:55:49 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 12:55:52 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 12:55:53 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 12:55:53 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 12:55:56 INFO : The "Automation" was set to search field.
+2017-05-14 12:55:57 INFO : Domain was found: (page 1 of 5): "automation-remarks.com/"
+2017-05-14 12:55:57 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 12:55:58 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 12:55:58 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 12:56:01 INFO : The "Automation" was set to search field.
+2017-05-14 12:56:02 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:00:56 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:00:56 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:00:56 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:00:59 INFO : Was loaded "Firefox"
+2017-05-14 13:01:00 INFO : The "Automation" was set to search field.
+2017-05-14 13:01:01 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 13:01:02 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:01:02 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:01:02 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:01:04 INFO : Was loaded "Chrome"
+2017-05-14 13:01:05 INFO : The "Automation" was set to search field.
+2017-05-14 13:01:07 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 13:01:10 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:01:11 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:01:11 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:01:13 INFO : Was loaded "Firefox"
+2017-05-14 13:01:14 INFO : The "Automation" was set to search field.
+2017-05-14 13:01:15 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:01:16 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:01:16 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:01:18 INFO : Was loaded "Chrome"
+2017-05-14 13:01:19 INFO : The "Automation" was set to search field.
+2017-05-14 13:01:20 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:09:50 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:09:50 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:09:50 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:09:53 INFO : Was loaded "Firefox"
+2017-05-14 13:09:54 INFO : The "Automation" was set to search field.
+2017-05-14 13:09:55 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 13:09:56 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:09:57 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:09:57 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:09:58 INFO : Was loaded "Chrome"
+2017-05-14 13:09:59 INFO : The "Automation" was set to search field.
+2017-05-14 13:10:01 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 13:10:02 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:10:03 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:10:03 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:10:05 INFO : Was loaded "Firefox"
+2017-05-14 13:10:06 INFO : The "Automation" was set to search field.
+2017-05-14 13:10:07 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:10:08 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:10:08 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:10:10 INFO : Was loaded "Chrome"
+2017-05-14 13:10:11 INFO : The "Automation" was set to search field.
+2017-05-14 13:10:12 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:10:58 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:10:59 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:10:59 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:11:01 INFO : Was loaded "Firefox"
+2017-05-14 13:11:02 INFO : The "Automation" was set to search field.
+2017-05-14 13:11:03 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 13:11:04 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:11:04 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:11:04 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:11:06 INFO : Was loaded "Chrome"
+2017-05-14 13:11:07 INFO : The "Automation" was set to search field.
+2017-05-14 13:11:10 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 13:11:11 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:11:11 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:11:11 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:11:13 INFO : Was loaded "Firefox"
+2017-05-14 13:11:14 INFO : The "Automation" was set to search field.
+2017-05-14 13:11:15 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:11:16 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:11:16 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:11:16 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:11:18 INFO : Was loaded "Chrome"
+2017-05-14 13:11:19 INFO : The "Automation" was set to search field.
+2017-05-14 13:11:20 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:12:11 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:12:11 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:12:11 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:12:13 INFO : Was loaded "Firefox"
+2017-05-14 13:12:15 INFO : The "Automation" was set to search field.
+2017-05-14 13:12:16 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 13:12:16 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:12:17 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:12:17 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:12:19 INFO : Was loaded "Chrome"
+2017-05-14 13:12:20 INFO : The "Automation" was set to search field.
+2017-05-14 13:12:22 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 13:12:23 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 13:12:23 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 13:12:23 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 13:12:26 INFO : Was loaded "Firefox"
+2017-05-14 13:12:27 INFO : The "Automation" was set to search field.
+2017-05-14 13:12:28 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 13:12:28 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 13:12:29 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 13:12:29 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 13:12:31 INFO : Was loaded "Chrome"
+2017-05-14 13:12:31 INFO : The "Automation" was set to search field.
+2017-05-14 13:12:32 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 14:23:33 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 14:23:33 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 14:23:34 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 14:23:36 INFO : Was loaded "Firefox"
+2017-05-14 14:23:37 INFO : The "Automation" was set to search field.
+2017-05-14 14:23:38 INFO : The title of first page is: "Automation - Поиск в Google"
+2017-05-14 14:23:39 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 14:23:39 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 14:23:39 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 14:23:41 INFO : Was loaded "Chrome"
+2017-05-14 14:23:42 INFO : The "Automation" was set to search field.
+2017-05-14 14:23:44 INFO : The title of first page is: "Automation - Wikipedia"
+2017-05-14 14:23:45 INFO : Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek [wires, geckodriver]
+2017-05-14 14:23:46 INFO : Latest version of [wires, geckodriver] is 0.16.1
+2017-05-14 14:23:46 INFO : Exporting webdriver.gecko.driver as C:\Users\user\.m2\repository\webdriver\geckodriver\win64\0.16.1\geckodriver.exe
+2017-05-14 14:23:48 INFO : Was loaded "Firefox"
+2017-05-14 14:23:49 INFO : The "Automation" was set to search field.
+2017-05-14 14:23:50 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"
+2017-05-14 14:23:51 INFO : Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2017-05-14 14:23:51 INFO : Latest version of [chromedriver] is 2.29
+2017-05-14 14:23:51 INFO : Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\2.29\chromedriver.exe
+2017-05-14 14:23:53 INFO : Was loaded "Chrome"
+2017-05-14 14:23:54 INFO : The "Automation" was set to search field.
+2017-05-14 14:23:55 INFO : Domain was found: (page 1 of 5): "https://en.wikipedia.org/wiki/Automation"

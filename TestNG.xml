@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" name="Test suite" verbose="1" >
+<test name="Tests" >
+<packages>
+<package name="Tests"/>
+</packages>
+
+</test>
+</suite>
